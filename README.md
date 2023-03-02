@@ -4,7 +4,7 @@ Belajar membuat desain keranjang belanja
 
 ## Demo di github pages
 
-Lihat demo hasil belajar di sini : 
+Lihat demo hasil belajar di sini : https://janzenfaidiban.github.io/sacode-online-2023-day10/
 
 ## Screenshots
 
